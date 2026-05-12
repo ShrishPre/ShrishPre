@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Shristi Jain 👋
 
-<!--
-**ShrishPre/ShrishPre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Certified Data Analyst with hands-on experience in SQL, Power BI, Python, and Machine Learning.
 
-Here are some ideas to get you started:
+Currently focused on building real-world analytics and machine learning projects to strengthen my practical skills in data analysis, visualization, dashboarding, and predictive modeling.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills & Tools
+- SQL
+- Power BI
+- Python
+- Excel
+- Pandas & NumPy
+- Scikit-learn
+- Streamlit
+
+### Areas of Interest
+- Data Analytics
+- Business Intelligence
+- Dashboard Development
+- Machine Learning
+- Data Visualization
+
+### Currently Learning
+- Advanced SQL
+- Power BI Dashboard Optimization
+- Machine Learning Concepts
+- Data Storytelling
+
+### Connect With Me
+LinkedIn: www.linkedin.com/in/shristi-jain-13670238a
+GitHub: https://github.com/ShrishPre
+Medium: https://medium.com/@shristijain1525
+
+⭐ Passionate about learning, building, and growing through hands-on projects and continuous practice
